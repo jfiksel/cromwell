@@ -1,5 +1,12 @@
 # Cromwell Change Log
 
+## 29
+
+### Command Line Usage
+
+Command line usage has been extensively revised for Cromwell 29.  Please see the
+[README](https://github.com/broadinstitute/cromwell#command-line-usage) for details.
+
 ## 28
 
 ### Bug Fixes
